@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.3'
-gem 'devise', "~> 1.4.2"
-gem 'mongoid', "~> 2.1.8"
-gem 'mongoid_spacial', "~> 0.2.13"
-gem 'haml', '~> 3.1.2'
-gem 'bson_ext', '~> 1.3.1'
+gem 'devise' 
+gem 'mongoid'
+gem 'mongoid_spacial'
+gem 'haml'
+gem 'bson_ext'
 gem "rails-backbone"
 
 # Bundle edge Rails instead:
